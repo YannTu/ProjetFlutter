@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1087239679773",
+    "project_id": "kickmyb-tupayachi",
+    "storage_bucket": "kickmyb-tupayachi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087239679773:android:74faee73e2f0e705fc7bf4",
+        "android_client_info": {
+          "package_name": "org.tupayachi.tp3_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087239679773-6bpm962vb754fqvd35tu9sbimlc2jk9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDja0zawHfvJOnePi5OEn7FNquQactVfLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087239679773-6bpm962vb754fqvd35tu9sbimlc2jk9m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087239679773-23qrvv3nhglskhoobi3mq43fpmg6r44o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.tupayachi.tp1Tp2Flutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
